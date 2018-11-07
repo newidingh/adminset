@@ -4,7 +4,6 @@
 [![release](https://img.shields.io/github/release/guohongze/adminset.svg)](https://github.com/guohongze/adminset/releases)
 <br>
 Adminset基于DevOps理念开发，以整合全部运维场景为己任。Adminset是一个真正的基于运维思维而开发的全自动化运维平台。<br>
-[测试链接](#tiao)
 
 ## v0.20 新功能
 python3.6语法兼容<br>
@@ -51,7 +50,6 @@ service adminsetd start|stop|restart|status
 ```
 注意：客户端全部功能需要配置服务器到客户端的ssh免密登录。<br>
 
-## tiao
 ## 访问
 http://your_server_ip<br>
 自动安装的用户名admin 密码Adminset123<br>
