@@ -28,7 +28,7 @@ adminset/install/server/auto_install.sh
 说明：手动自定义安装请使用<br>
 adminset/install/server/server_install.sh<br>
 
-##tiao
+
 ## 客户端安装
 客户端脚本目前rhel/centos6、centos7,ubuntu16.04<br>
 客户端python版本支持2.6.6及以上<br>
@@ -51,7 +51,7 @@ service adminsetd start|stop|restart|status
 ```
 注意：客户端全部功能需要配置服务器到客户端的ssh免密登录。<br>
 
-
+## tiao
 ## 访问
 http://your_server_ip<br>
 自动安装的用户名admin 密码Adminset123<br>
