@@ -4,6 +4,7 @@
 [![release](https://img.shields.io/github/release/guohongze/adminset.svg)](https://github.com/guohongze/adminset/releases)
 <br>
 Adminset基于DevOps理念开发，以整合全部运维场景为己任。Adminset是一个真正的基于运维思维而开发的全自动化运维平台。<br>
+[测试链接](#tiao)
 
 ## v0.20 新功能
 python3.6语法兼容<br>
@@ -27,7 +28,7 @@ adminset/install/server/auto_install.sh
 说明：手动自定义安装请使用<br>
 adminset/install/server/server_install.sh<br>
 
-
+##tiao
 ## 客户端安装
 客户端脚本目前rhel/centos6、centos7,ubuntu16.04<br>
 客户端python版本支持2.6.6及以上<br>
